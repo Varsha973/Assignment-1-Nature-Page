@@ -1,0 +1,91 @@
+body{
+    background-image:url(../images/nature1.jpg);
+    background-repeat: no-repeat center top;
+    background-size: cover;
+    width:100%;
+    margin:0;
+    padding: 0;
+   
+}
+.header{
+   color:darkslategrey;
+   font-size: 20px;
+   font-style: oblique;
+   margin-left: 10px;
+   margin-top: 10px;
+}
+.heading1{
+    color:darkslategrey;
+    text-decoration: navajowhite;
+    text-align: center;
+    padding-left: 0px;
+    font-weight: 200;
+    font-size: 25px;
+   padding-top:-50px ;
+}
+.quote{
+    margin-left: 300px;
+    font-size: 22px;
+    font-style: oblique;
+}
+.quote1{
+    margin-left: 370px;
+    font-size: 18px;
+    font-style: oblique;
+}
+.navbar ul{
+    list-style: none;
+    padding-right:80px;
+    margin: 0%;
+    text-align:right;
+}
+.navbar li{
+    display:inline-block;
+    
+}
+.navbar a{
+    text-decoration:underline;
+    color:darkgreen;
+    width: 70px;
+    display:block;
+    padding: 10px 10px;
+    text-transform: uppercase;
+}
+.navbar a:hover{
+    color:red;
+}
+.heading2{
+    color:chocolate;
+    font-style: italic;
+    margin-top: 30px;
+    font-size: 24px;
+    margin-left: 6px;
+    
+}
+.para{
+    color:wheat;
+    text-align:left;
+    font-size: 19px;
+    width: fit-content; 
+    padding-left: 3px;
+}
+
+.content{
+    margin-left: 10px;
+    font-size: 19px;
+    color:wheat;
+    text-align:left;
+    font-size: 19px;
+    padding-top: -30px;
+   padding-right: 7px;   
+}
+.border{
+    color: black;
+    border: 1px solid white;
+    background-color:lemonchiffon;
+}
+.footer{
+    color: wheat;
+    text-align:center;
+    font-size: 19px;
+}
