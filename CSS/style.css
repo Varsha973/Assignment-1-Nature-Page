@@ -24,12 +24,13 @@ body{
    padding-top:-50px ;
 }
 .quote{
-    margin-left: 300px;
+    /* margin-left: 300px; */
+    text-align: center;
     font-size: 22px;
     font-style: oblique;
 }
 .quote1{
-    margin-left: 370px;
+    margin-left: 53%;
     font-size: 18px;
     font-style: oblique;
 }
